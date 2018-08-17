@@ -1,0 +1,8 @@
+//
+// Created by yangwenyu on 18-8-17.
+//
+
+#ifndef DIS_EOS_BLOCK_CHAIN_APP_APPLICATION_H
+#define DIS_EOS_BLOCK_CHAIN_APP_APPLICATION_H
+
+#endif //DIS_EOS_BLOCK_CHAIN_APP_APPLICATION_H
